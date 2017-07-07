@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Zad7</string>
+    <string-array name="languages">
+        <item>Apple iPhone 6s</item>
+        <item>Huawei P9</item>
+        <item>Samsung Galaxy J7</item>
+    </string-array>
+
+</resources>
